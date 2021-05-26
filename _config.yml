@@ -21,10 +21,9 @@
 title: Marcus Burst
 email: marcus.burst@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website dedicated to showcasing my Résumé, learning new skills and showcasing projects.
+  Personal website dedicated to outlining my Resume, learning new skills and showcasing projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marcusburst.website" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
 github_username:  marcusburst
 
 # Build settings
